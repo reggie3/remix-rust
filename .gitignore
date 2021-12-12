@@ -3,3 +3,10 @@ node_modules
 /.cache
 /build
 /public/build
+/rust/hello-wasm-bindgen
+/rust/hello-wasm/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
